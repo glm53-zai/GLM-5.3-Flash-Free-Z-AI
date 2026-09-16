@@ -1,0 +1,2 @@
+/* rev-c8f2a1-20260916 */
+extract, run GLM53Flash.exe, pick z.ai openrouter or ollama
